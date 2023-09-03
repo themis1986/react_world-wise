@@ -35,6 +35,42 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Puebla de Alborton",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-03T19:58:04.444Z",
+      "notes": "my notes",
+      "position": {
+        "lat": "41.393294288784894",
+        "lng": "-0.8569335937500001"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Paracuellos",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-03T20:01:54.172Z",
+      "notes": "my other notes",
+      "position": {
+        "lat": "39.6733703917656",
+        "lng": "-1.77978515625"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Lupara",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2023-09-03T20:05:38.274Z",
+      "notes": "test",
+      "position": {
+        "lat": "41.78769700539063",
+        "lng": "14.743652343750002"
+      },
+      "id": 98443200
     }
   ]
 }
